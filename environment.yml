@@ -4,8 +4,7 @@ channels:
 dependencies:
  - python
  - numpy
- - scipy
  - matplotlib
  - pandas
- - seaborn
- - pingouin
+ - sklearn
+ - warnings
