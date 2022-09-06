@@ -2,7 +2,7 @@ channels:
  - conda-forge
 
 dependencies:
- - pyhon
+ - python
  - numpy
  - scipy
  - matplotlib
