@@ -15,23 +15,23 @@ Le feature presenti nel dataset sono:
     - EX: Expert (Executive-level)
     - Director
 - employment_type: Il contratto di lavoro in termini di orario. I valori della colonna sono i seguenti:
-    PT: Part-time
-    FT: Full-time
-    CT: Contract
-    FL: Freelance
+    - PT: Part-time
+    - FT: Full-time
+    - CT: Contract
+    - FL: Freelance
 - job_title: Il ruolo ricoperto durante l'anno lavorativo.
 - salary: L'importo totale della retribuzione lorda pagata.
 - salary_currency: La valuta dello stipendio rispettando lo standard del codice valuta ISO 4217.
 - employee_residence: Il paese di residenza dei lavoratori durante l'anno lavorativo rispettando lo standard del codice paese ISO 3166.
 - remote_ratio: La parte dell'impiego svolta da remoto. I valori della colonna sono i seguenti:
-    0: Niente lavoro da remoto
-    50: Parzialmente da remoto
-    100: Totalmente da remoto (sopra una percentuale dell'80%)
+    - 0: Niente lavoro da remoto
+    - 50: Parzialmente da remoto
+    - 100: Totalmente da remoto (sopra una percentuale dell'80%)
 - company_location: Il paese dove risiede la sede principale del datore di lavoro o la succursale appaltante rispettando lo standard del codice paese ISO 3166.
 - company_size: Il numero medio di persone che hanno lavorato per l'azienda durante l'anno lavorativo. I valori della colonna sono i seguenti:
-    S: Per aziende con meno di 50 impeigati (Small).
-    M: Per aziende con un numero di impiegati compresi tra i 50 e i 250 (Medium).
-    L: Per aziende con più di 250 impeigati (Large).
+    - S: Per aziende con meno di 50 impeigati (Small).
+    - M: Per aziende con un numero di impiegati compresi tra i 50 e i 250 (Medium).
+    - L: Per aziende con più di 250 impeigati (Large).
 
 La misura per la quale verrano svolte le analisi predittive è:
 
