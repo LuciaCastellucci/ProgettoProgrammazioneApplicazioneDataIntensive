@@ -9,11 +9,11 @@ Le feature presenti nel dataset sono:
 
 - work_year: L'anno in cui è stato percepito il salario.
 - experience_level: Il livello di esperienza del lavoratore, durante l'anno lavorativo campionato. I valori della colonna sono i seguenti:
-    EN: Entry-level
-    MI: Junior (Mid-level)
-    SE: Intermediate (Senior-level)
-    EX: Expert (Executive-level)
-    Director
+    - EN: Entry-level
+    - MI: Junior (Mid-level)
+    - SE: Intermediate (Senior-level)
+    - EX: Expert (Executive-level)
+    - Director
 - employment_type: Il contratto di lavoro in termini di orario. I valori della colonna sono i seguenti:
     PT: Part-time
     FT: Full-time
