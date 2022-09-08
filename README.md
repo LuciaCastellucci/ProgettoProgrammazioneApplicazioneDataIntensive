@@ -1,5 +1,5 @@
 # Previsione dello stipendio di un dipendente nell'ambito della data science sulla base delle condizioni di lavoro
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LuciaCastellucci/ProgettoProgrammazioneApplicazioneDataIntensive/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LuciaCastellucci/ProgettoProgrammazioneApplicazioneDataIntensive/bcc1b48d4162604813b1df17bcd810bcee43eef0?urlpath=lab%2Ftree%2FProgetto.ipynb)
 
 I dati utilizzati sono stati ottenuti da Kaggle. Il dataset è denominato "Data Science Job Salaries".
 
