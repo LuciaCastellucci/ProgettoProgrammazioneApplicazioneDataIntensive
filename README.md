@@ -1,5 +1,5 @@
 # Previsione dello stipendio di un dipendente nell'ambito della data science sulla base delle condizioni di lavoro
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LuciaCastellucci/ProgettoProgrammazioneApplicazioneDataIntensive/HEAD)
 I dati utilizzati sono stati ottenuti da Kaggle. Il dataset è denominato "Data Science Job Salaries".
 
 Il dataset è stato ricavato da un indagine effettuata su un campione di 606 lavoratori del campo della Data Science inserendo le informazioni ricavate in un file formato csv. La rilevazione è stata effettuata su salari percepiti tra gli anni 2020 e 2022.
